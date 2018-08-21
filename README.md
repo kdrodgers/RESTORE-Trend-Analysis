@@ -6,7 +6,7 @@ README File for the RESTORE Trend Analysis
 Contained within are files associated with the RESTORE Trend Analysis.
 Included are three files entitled "scripts", "data", and "results."
 
-Below is a brief description of the content containe in each folder:
+Below is a brief description of the content contained in each folder:
 
 File entitled "scripts":
 
